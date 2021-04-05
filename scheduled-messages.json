@@ -1,0 +1,14 @@
+{
+    "schedules": [
+        {
+            "date": "2021-04-01 11:40:00",
+            "channel": "826196156597272596",
+            "message": "Uma mensagem agendada"
+        },
+        {
+            "date": "2021-04-01 11:43:00",
+            "channel": "826196156597272596",
+            "message": "Segunda mensagem"
+        }
+    ]
+}

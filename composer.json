@@ -1,0 +1,13 @@
+{
+    "require": {
+        "team-reflex/discord-php": "^5.1",
+        "vlucas/phpdotenv": "^5.3",
+        "php": "^8.0"
+    },
+
+    "autoload":{
+        "psr-4": {
+            "PHPDiscordBot\\": "src/"
+        }
+    }
+}
